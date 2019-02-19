@@ -17,3 +17,5 @@ $nexmo_key = array(
   'api_key' => '',
   'api_secret' => '',
 );
+
+$userlist_password = 'asdf';
